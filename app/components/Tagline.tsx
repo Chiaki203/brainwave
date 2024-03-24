@@ -1,4 +1,4 @@
-import brackets from './svg/brackets'
+import brackets from './svg/Brackets'
 
 type TaglineProps = {
   className?: string
